@@ -1,3 +1,3 @@
 # My Portfolio
 
-Welcome to my professional portfolio on GitHub. Here, you'll find projects, code snippets, and professional highlights.
+Welcome to my portfolio on GitHub. Here, you'll see what kind of projects I've worked on.
